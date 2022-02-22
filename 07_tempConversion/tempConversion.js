@@ -1,3 +1,5 @@
+const rounded = number => Math.round(number * 10) / 10;
+
 const ftoc = function() {
 
 };
